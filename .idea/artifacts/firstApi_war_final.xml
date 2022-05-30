@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="firstApi:war_final">
+    <output-path>$PROJECT_DIR$/out/artifacts/firstApi_war_final</output-path>
+    <root id="archive" name="firstApi_war.war">
+      <element id="artifact" artifact-name="firstApi:war exploded" />
+    </root>
+  </artifact>
+</component>
